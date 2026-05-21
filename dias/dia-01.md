@@ -25,9 +25,9 @@ actual y priorizar las áreas de intervención para los próximos 19 días.
 
 ## Baseline del Tenant — 20/05/2026
 
-![Dashboard principal — Secure Score y usuarios en riesgo](assets/dia-01-dashboard.png)
+![Dashboard principal — Secure Score y usuarios en riesgo](../assets/dia-01-dashboard.png)
 
-![Incidentes activos — últimas 24 horas](assets/dia-01-incidentes.png)
+![Incidentes activos — últimas 24 horas](../assets/dia-01-incidentes.png)
 
 | Métrica | Valor | Estado |
 |---------|-------|--------|
