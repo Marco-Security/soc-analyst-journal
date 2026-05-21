@@ -1,0 +1,2 @@
+# soc-analyst-journal
+20-day SOC Analyst simulation using Microsoft Defender XDR, Sentinel, MDE and Defender for Cloud
