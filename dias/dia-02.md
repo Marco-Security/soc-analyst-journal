@@ -52,8 +52,8 @@ forense y resumen ejecutivo.
 |-------|-------|
 | ID | 37 |
 | Título | Multi-stage incident involving Persistence & Defense Evasion |
-| Gravedad | 🔴 Alto |
-| Estado | ✅ Resolved |
+| Gravedad | Alto |
+| Estado | Resolved |
 | Clasificación | True Alert |
 | Asignado a | arascon@labmxsc200.onmicrosoft.com |
 | Primera actividad | 3 may. 2026 — 23:06:30 |
@@ -75,7 +75,7 @@ forense y resumen ejecutivo.
 | Táctica MITRE | T1562.001 — Disable or Modify Tools |
 | Táctica MITRE | T1562.006 — Indicator Blocking |
 | Origen de detección | EDR (Microsoft Defender for Endpoint) |
-| Estado | ✅ Resuelta |
+| Estado | Resuelta |
 
 ### Alerta 2 — Suspicious Service Registration
 | Campo | Valor |
@@ -83,7 +83,7 @@ forense y resumen ejecutivo.
 | Hora | 3 may. 2026 — 23:17 |
 | Dispositivo | maquinavirtualp |
 | Categoría | Persistencia |
-| Estado | ✅ Resuelta |
+| Estado | Resuelta |
 
 ---
 
@@ -92,12 +92,12 @@ forense y resumen ejecutivo.
 | Hora | Proceso | Acción | Indicador |
 |------|---------|--------|-----------|
 | 19:54:15 | userinit.exe | Inicio de sesión legítimo | Normal |
-| 19:54:16 | explorer.exe | Remote execution | 🟠 Sospechoso |
-| 23:06:18 | powershell.exe (PID 8672) | Remote execution | 🔴 Sospechoso |
-| 23:06:29 | powershell.exe | executed a script | 🔴 Sospechoso |
-| 23:06:30 | powershell.exe | executed a script | 🔴 Sospechoso |
-| 23:06:30 | powershell.exe | executed a script | 🔴 Sospechoso |
-| 23:17 | services.exe (PID 884) | Registro de servicio sospechoso | 🔴 Persistencia |
+| 19:54:16 | explorer.exe | Remote execution | Sospechoso |
+| 23:06:18 | powershell.exe (PID 8672) | Remote execution | Sospechoso |
+| 23:06:29 | powershell.exe | executed a script | Sospechoso |
+| 23:06:30 | powershell.exe | executed a script | Sospechoso |
+| 23:06:30 | powershell.exe | executed a script | Sospechoso |
+| 23:17 | services.exe (PID 884) | Registro de servicio sospechoso | Persistencia |
 
 ---
 
@@ -114,11 +114,11 @@ forense y resumen ejecutivo.
 
 | Tipo | Entidad | Veredicto |
 |------|---------|-----------|
-| Dirección IP | 192.168.1.90 | 🔴 Sospechosa |
-| Proceso | powershell.exe (PID 8672) | 🔴 Sospechoso |
-| Valor del registro | DisableRealtimeMonitoring | 🔴 Sospechoso |
-| Valor del registro | ImagePath: 63-00-6D-00... | 🔴 Sospechoso |
-| Proceso | services.exe (PID 884) | 🔴 Sospechoso |
+| Dirección IP | 192.168.1.90 | Sospechosa |
+| Proceso | powershell.exe (PID 8672) | Sospechoso |
+| Valor del registro | DisableRealtimeMonitoring | Sospechoso |
+| Valor del registro | ImagePath: 63-00-6D-00... | Sospechoso |
+| Proceso | services.exe (PID 884) | Sospechoso |
 
 ---
 
