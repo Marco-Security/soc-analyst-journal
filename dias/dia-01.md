@@ -31,20 +31,20 @@ actual y priorizar las áreas de intervención para los próximos 19 días.
 
 | Métrica | Valor | Estado |
 |---------|-------|--------|
-| Incidentes activos (30 días) | 26,869 | 🔴 Crítico |
-| Usuarios en riesgo | 15 | 🟠 Alto |
-| Secure Score global | 40% (420.41/1051) | 🟠 Medio |
-| Malware activo | 0 — corregido | 🟢 OK |
-| Data Connectors activos | 1 | 🟠 Limitado |
-| Automation Rules | 0 | 🔴 Sin automatización |
+| Incidentes activos (30 días) | 26,869 | Crítico |
+| Usuarios en riesgo | 15 | Alto |
+| Secure Score global | 40% (420.41/1051) | Medio |
+| Malware activo | 0 — corregido | OK |
+| Data Connectors activos | 1 | Limitado |
+| Automation Rules | 0 | Sin automatización |
 
 ### Secure Score por Área
 
 | Área | Puntuación | Prioridad |
 |------|-----------|-----------|
-| Identidad | 21.95% | 🔴 Crítico — intervenir primero |
-| Dispositivo | 41.33% | 🟠 Medio |
-| Aplicaciones | 61.11% | 🟡 Aceptable |
+| Identidad | 21.95% | Crítico — intervenir primero |
+| Dispositivo | 41.33% | Medio |
+| Aplicaciones | 61.11% | Aceptable |
 
 ### Top Recomendaciones del Secure Score
 
@@ -92,11 +92,11 @@ el tenant a ataques de fuerza bruta y credential stuffing.
 
 | Prioridad | Acción | Día |
 |-----------|--------|-----|
-| 🔴 1 | Investigar incidentes críticos activos | Día 2 |
-| 🔴 2 | Revisar dispositivos en riesgo Alto en MDE | Día 3 |
-| 🔴 3 | Analizar TVM — vulnerabilidades en endpoints | Día 6 |
-| 🟠 4 | Mejorar Secure Score de Identidad (21.95%) | Día 8 |
-| 🟠 5 | Crear Automation Rules para reducir alert fatigue | Día 11 |
+| 1 | Investigar incidentes críticos activos | Día 2 |
+| 2 | Revisar dispositivos en riesgo Alto en MDE | Día 3 |
+| 3 | Analizar TVM — vulnerabilidades en endpoints | Día 6 |
+| 4 | Mejorar Secure Score de Identidad (21.95%) | Día 8 |
+| 5 | Crear Automation Rules para reducir alert fatigue | Día 11 |
 
 ---
 
