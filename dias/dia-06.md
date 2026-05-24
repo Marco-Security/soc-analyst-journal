@@ -1,4 +1,4 @@
-# Día 6 — Threat & Vulnerability Management (TVM) a fondo
+# Día 6 — Threat & Vulnerability Management (TVM)
 
 **Fecha:** 24/05/2026
 **Herramientas:** Microsoft Defender XDR — Administración de vulnerabilidades
