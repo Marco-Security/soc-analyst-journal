@@ -27,16 +27,16 @@ funcionando.
 | Usuarios en riesgo | 15 | 15 | → Sin cambio |
 | Usuarios sin MFA | 27/27 | 27/27 | → Sin cambio |
 | Dispositivos riesgo alto | 7 | 7 | → Sin cambio |
-| Dispositivos sin EDR | — | 28/29 | 🔴 Confirmado |
+| Dispositivos sin EDR | — | 28/29 | Confirmado |
 | Exposure Score (TVM) | 54/100 | 54/100 | → Sin cambio |
 | CVEs críticas | 6 | 6 | → Sin cambio |
 | CVEs aprovechables | 12 | 12 | → Sin cambio |
 | Remediation Tasks activas | 0 | 3 | ↑ Creadas |
-| Remediation Tasks vencidas | 0 | 3 (100%) | 🔴 Todas vencidas |
-| Progreso de corrección | — | 0/27 | 🔴 Sin acción |
-| Secure Score (Defender for Cloud) | — | N/D | 🔴 No calculable |
-| Recursos evaluados (DfC) | — | 0 | 🔴 Sin evaluación |
-| Defender Plans activos | — | 0/14 | 🔴 Sin cobertura |
+| Remediation Tasks vencidas | 0 | 3 (100%) | Todas vencidas |
+| Progreso de corrección | — | 0/27 | Sin acción |
+| Secure Score (Defender for Cloud) | — | N/D | No calculable |
+| Recursos evaluados (DfC) | — | 0 | Sin evaluación |
+| Defender Plans activos | — | 0/14 | Sin cobertura |
 
 **Conclusión de métricas:** Ningún indicador mejoró en dos semanas.
 Los que existían siguen igual; los nuevos que descubrimos esta semana
