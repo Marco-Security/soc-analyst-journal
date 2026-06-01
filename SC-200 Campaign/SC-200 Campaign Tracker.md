@@ -129,50 +129,50 @@
 
 ### Día 8 — Responder en Defender XDR I · `D2`
 - [ ] 🧠 Briefing 
-- [ ] [ ] 🛠️ Operación de Campo 
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo 
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__` 
--  **Notas:**
+- **Notas:**
 
 ### Día 9 — Responder en Defender XDR II · `D2`
 - [ ] 🧠 Briefing ·
-- [ ] [ ] 🛠️ Operación de Campo
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__`
 - **Notas:**
 
 ### Día 10 — Copilot embebido + ataques multi-etapa · `D2`
 - [ ] 🧠 Briefing
-- [ ] [ ] 🛠️ Operación de Campo
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__`
 - **Notas:**
 
 ### Día 11 — MDE response + M365 activities · `D2`
 - [ ] 🧠 Briefing
-- [ ] [ ] 🛠️ Operación de Campo
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__`
 - **Notas:**
 
 ### Día 12 — Hunting I: KQL avanzado + Advanced Hunting · `D3`
 - [ ] 🧠 Briefing
-- [ ] [ ] 🛠️ Operación de Campo
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__`
 - **Notas:**
 
 ### Día 13 — Hunting II: threat analytics + Sentinel Graph · `D3`
 - [ ] 🧠 Briefing
-- [ ] [ ] 🛠️ Operación de Campo
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__`
 - **Notas:**
 
 ### Día 14 — Hunting III: Data lake + Summary rules + Notebooks · `D3`
 - [ ] 🧠 Briefing
-- [ ] [ ] 🛠️ Operación de Campo
-- [ ] [ ] 🎯 Checkpoint `__/__`
+- [ ] 🛠️ Operación de Campo
+- [ ] 🎯 Checkpoint `__/__`
 - **XP:** `__`
 - **Notas:**
 
