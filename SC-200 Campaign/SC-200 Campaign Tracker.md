@@ -27,7 +27,7 @@
 
 ## 🎮 Sistema de XP y rangos
 
-**Puntos por actividad diaria:** 🧠 Briefing = 10 · 🛠️ Operación de Campo = 25 · 🎯 Checkpoint = 15 → **50 XP/día**
+**Puntos por actividad diaria:** 🧠 Briefing = 10 · 🛠️ Operación de Campo = 25 · 🎯 Checkpoint = 15 → **50 XP/día** ·
 **Boss Fights (simuladores):** +50 XP cada uno
 
 | Rango | XP necesario |
