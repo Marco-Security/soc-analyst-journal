@@ -74,7 +74,8 @@
 
 ## 📓 Registro diario (Día 1)
 
-> Copia este bloque por cada día y llénalo. Anota tus queries, dudas y aciertos.
+> Incidente 31 — Attack Disruption contuvo svc_test_655 (Contain user, automático); contención revertida después.
+> la maquinaria que vive debajo del attack disruption es AIR (Automated Investigation & Response)
 
 ### Día 1 — Tomando el mando del SOC · `D1`
 - [x] 🧠 Briefing
