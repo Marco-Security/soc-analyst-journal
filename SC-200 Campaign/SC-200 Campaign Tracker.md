@@ -52,7 +52,7 @@
 | Día | Misión | Dominio | Hecho |
 |---|---|---|---|
 | 1 | Tomando el mando del SOC | D1 | [x] |
-| 2 | Automatización y respuesta (AIR + ASR) | D1 | [ ] |
+| 2 | Automatización y respuesta (AIR + ASR) | D1 | [x] |
 | 3 | Attack disruption automática + device groups | D1 | [ ] |
 | 4 | Conectar Sentinel — roles y retención (tiers) | D1 | [ ] |
 | 5 | Ingesta I — AMA, Windows Security Events, DCRs | D1 | [ ] |
@@ -86,11 +86,11 @@
 - **Dudas para repasar:** Onboardear máquina a MDE para generar incidentes
 
 ### Día 2 — Automatización y respuesta (AIR + ASR) · `D1`
-- [ ] 🧠 Briefing
-- [ ] 🛠️ Operación de Campo
-- [ ] 🎯 Checkpoint — Score: `__/__`
-- **XP ganado:** `__`
-- **Notas:**
+- [x] 🧠 Briefing
+- [x] 🛠️ Operación de Campo
+- [x] 🎯 Checkpoint — Score: `3/3`
+- **XP ganado:** `50`
+- **Notas:** AIR investigó 1,877 entidades en incidente 31; los 3 device groups en Full = por eso Attack Disruption actuó solo; directiva ASR creada en Audit; aprendí ActionType y Audited.
 
 ### Día 3 — Attack disruption automática + device groups · `D1`
 - [ ] 🧠 Briefing
