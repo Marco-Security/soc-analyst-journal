@@ -75,7 +75,7 @@
 ## 📓 Registro diario (Día 1)
 
 > Incidente 31 — Attack Disruption contuvo svc_test_655 (Contain user, automático); contención revertida después.
-> la maquinaria que vive debajo del attack disruption es AIR (Automated Investigation & Response)
+> La maquinaria que vive debajo del attack disruption es AIR (Automated Investigation & Response)
 
 ### Día 1 — Tomando el mando del SOC · `D1`
 - [x] 🧠 Briefing
