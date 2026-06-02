@@ -210,7 +210,7 @@
 
 > Cada vez que falles algo, anótalo aquí. El Día 15–17 atacas SOLO esta lista.
 
-- [ ]
+- "Roles built-in Defender XDR" y "dirección de ago() en filtros de tiempo"
 - [ ]
 - [ ]
 - [ ]
