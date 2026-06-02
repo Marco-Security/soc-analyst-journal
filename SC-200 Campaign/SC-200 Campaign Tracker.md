@@ -79,7 +79,7 @@
 ### Día 1 — Tomando el mando del SOC · `D1`
 - [ ] 🧠 Briefing
 - [ ] 🛠️ Operación de Campo
-- [ ] 🎯 Checkpoint — Score: `__/3`
+- [x] 🎯 Checkpoint — Score: `__/3`
 - **XP ganado:** `__`
 - **Queries / hallazgos:**
 - **Dudas para repasar:**
