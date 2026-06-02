@@ -77,12 +77,12 @@
 > Copia este bloque por cada día y llénalo. Anota tus queries, dudas y aciertos.
 
 ### Día 1 — Tomando el mando del SOC · `D1`
-- [ ] 🧠 Briefing
-- [ ] 🛠️ Operación de Campo
-- [x] 🎯 Checkpoint — Score: `__/3`
-- **XP ganado:** `__`
+- [x] 🧠 Briefing
+- [x] 🛠️ Operación de Campo
+- [x] 🎯 Checkpoint — Score: `3/3`
+- **XP ganado:** `50`
 - **Queries / hallazgos:**
-- **Dudas para repasar:**
+- **Dudas para repasar:** Onboardear máquina a MDE para generar incidentes
 
 ### Día 2 — Automatización y respuesta (AIR + ASR) · `D1`
 - [ ] 🧠 Briefing
