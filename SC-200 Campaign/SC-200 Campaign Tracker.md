@@ -51,7 +51,7 @@
 
 | Día | Misión | Dominio | Hecho |
 |---|---|---|---|
-| 1 | Tomando el mando del SOC | D1 | [ ] |
+| 1 | Tomando el mando del SOC | D1 | [x] |
 | 2 | Automatización y respuesta (AIR + ASR) | D1 | [ ] |
 | 3 | Attack disruption automática + device groups | D1 | [ ] |
 | 4 | Conectar Sentinel — roles y retención (tiers) | D1 | [ ] |
@@ -80,7 +80,7 @@
 - [x] 🧠 Briefing
 - [x] 🛠️ Operación de Campo
 - [x] 🎯 Checkpoint — Score: `3/3`
-- **XP ganado:** `50`
+- **XP ganado:** `150`
 - **Queries / hallazgos:**
 - **Dudas para repasar:** Onboardear máquina a MDE para generar incidentes
 
