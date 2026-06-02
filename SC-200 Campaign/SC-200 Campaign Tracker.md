@@ -72,7 +72,7 @@
 
 ---
 
-## 📓 Registro diario
+## 📓 Registro diario (Día 1)
 
 > Copia este bloque por cada día y llénalo. Anota tus queries, dudas y aciertos.
 
